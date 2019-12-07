@@ -6,5 +6,6 @@ I use inVision Studio.
  - SNS profile page
     - User: Teen
     - Concept: POP
-    - Device: Mobile 
-https://projects.invisionapp.com/prototype/ck3w63ptl00doef017djvrgab/play
+    - Device: Mobile  
+  
+  https://projects.invisionapp.com/prototype/ck3w63ptl00doef017djvrgab/play
