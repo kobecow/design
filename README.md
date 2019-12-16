@@ -13,5 +13,5 @@ I use inVision Studio.
  - Music Subscription Register
     - User: Under 25 years old
     - Mood: Casual
-    - Device: Mobile
+    - Device: Mobile  
   https://projects.invisionapp.com/prototype/ck48fwl3n00jxj101r5f1d6kd/play
